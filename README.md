@@ -1,2 +1,2 @@
 # server-manager
-this is server manager
+this is tool management
